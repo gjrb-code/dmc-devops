@@ -1,6 +1,6 @@
 # dmc-devops
 
-[![CI](https://github.com/gjrb-code/dmc-devops/actions/workflows/simple-workflow.yml/badge.svg?branch=main)](https://github.com/gjrb-code/dmc-devops/actions/workflows/simple-workflow.yml)
+[![CI](https://github.com/gjrb-code/dmc-devops/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/gjrb-code/dmc-devops/actions/workflows/ci.yml)
 
 Repositorio del **Espacio “Documentación de GitHub”** para practicar un flujo DevOps básico con **Jira + GitHub + GitHub Actions**.
 
